@@ -1,4 +1,4 @@
-# bottom_navbar
+# Bottom Navbar
 
 Sample Flutter app using a Bottom Navigation Bar.
 
